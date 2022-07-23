@@ -11,4 +11,11 @@
 
 - [Parte 1 - Git e Github: O que são, Como Configurar e Primeiros Passos](https://youtu.be/HWDDQvRwUL8)
 - [Parte 2 - Git e Github: O que são, Como Configurar e Primeiros Passos](https://youtu.be/EMN0w06SXH0)
+- [Configurando Projeto e Removendo Main.StoryBoard](https://youtu.be/lssYSC3uT_s)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 - []()
